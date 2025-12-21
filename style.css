@@ -56,6 +56,12 @@ ul{
 
 li{
     list-style: none;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+}
+
+li:hover{
+    border-bottom: 1px solid #9d9b9b;
 }
 
 /* Form */
