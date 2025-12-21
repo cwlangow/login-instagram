@@ -46,11 +46,11 @@ Abra o arquivo:
 
 **🛠️ Melhorias Futuras**
 
-✔️ Responsividade para tablets
-✔️ Animações sutis em inputs e botões
-🔲 Implementar backend para autenticação real
-🔲 Criar modo claro/escuro
-🔲 Tornar o formulário funcional com JavaScript
+- Responsividade para tablets
+- Animações sutis em inputs e botões
+- Implementar backend para autenticação real
+- Criar modo claro/escuro
+- Tornar o formulário funcional com JavaScript
 
 **🤝 Contribuições**
 
